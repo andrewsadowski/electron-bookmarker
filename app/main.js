@@ -8,4 +8,4 @@ app.on('ready', () => {
   mainWindow.loadURL(`file://${__dirname}/app/index.html`);
 });
 
-console.log('hello');
+
